@@ -1,0 +1,67 @@
+TRAIN_DATA = [
+    ("I am a student of social policy, a civic engagement practitioner, a designer and an elite athlete (in fact, last time I visited Penn’s campus I was competing against your fencing team).", 
+     {"entities": [(83, 87, "ORG")]}),
+    
+    ("The Master of Integrated Product Design program at University of Pennsylvania is an opportunity not only to deepen my design practice but to strengthen it through innovative engineering and clever business practices.",
+     {"entities": [(52, 80, "ORG")]}),
+    
+    ("I am seeking opportunities to extend my tools for making a difference and I believe that the M:IPD program at Penn would do just that.",
+     {"entities": [(70, 74, "ORG")]}),
+    
+    ("When I started my first quarter at Northwestern University all I knew was that I wanted to study something that would allow me to leverage my education for the betterment of communities.",
+     {"entities": [(36, 58, "ORG")]}),
+    
+    ("Eventually, I landed on Social Policy, a degree that would provide the opportunity to challenge systems and learn the methodologies necessary to improve those systems.",
+     {"entities": []}),
+    
+    ("So, I pursued and completed two additional certificates: the Civic Engagement Certificate and the Design Certificate, both as a means of doing hands-on work to improve the lives of community members.",
+     {"entities": []}),
+    
+    ("Much of my design work centers around accessibility. I seek to utilize design to increase access to experiences, products and opportunities.",
+     {"entities": []}),
+    
+    ("One community that I’m particularly moved by and interested in designing for, is that of aging or older adults.",
+     {"entities": []}),
+    
+    ("A project in my portfolio, \"CareBot\" is an example of my work in this domain as it seeks to provide older adults with access to community, family, and empathetic medical care.",
+     {"entities": [(27, 34, "PRODUCT")]}),
+    
+    ("In my time in the M:IPD program, I would be interested in continuing and expanding upon this focus.",
+     {"entities": [(15, 19, "ORG")]}),
+    
+    ("The engineering aspect of the program is especially interesting to me as I believe it would provide tangible means of innovation in order to bolster my aesthetic design work.",
+     {"entities": []}),
+    
+    ("I know that courses such as \"Rehab Engineering & Design\" would be integral to leveraging engineering methodologies for creating real-world impact.",
+     {"entities": [(23, 52, "COURSE")]}),
+    
+    ("My other domain of interest is within the field of technology ethics. Issues such as cell phone addiction, data privacy, and artificial intelligence development all intrigue me.",
+     {"entities": []}),
+    
+    ("Penn’s multidisciplinary framework is uniquely situated to help me create thoughtful and effective design solutions to technology’s most pressing issues.",
+     {"entities": [(0, 4, "ORG")]}),
+    
+    ("Though Northwestern University does not have a full design degree program, I created my own path through my studies.",
+     {"entities": [(6, 28, "ORG")]}),
+    
+    ("Through the Segal Design Certificate program, I developed skills in human-centered design methodologies.",
+     {"entities": [(11, 38, "COURSE")]}),
+    
+    ("Studying in the Weitzman School of Design and Penn Engineering would deepen this skillset and further expand it, so as to provide the skills necessary to deliver on my ideas.",
+     {"entities": [(14, 42, "ORG"), (47, 62, "ORG")]}),
+    
+    ("I have also held a number of work and internship experiences that would inform my work as both a student and a community member at Penn.",
+     {"entities": [(110, 114, "ORG")]}),
+    
+    ("In my role at Unity Technologies, I worked to identify issues with the grant evaluation process utilized by Unity’s Social Impact team.",
+     {"entities": [(16, 34, "ORG")]}),
+    
+    ("Currently, I work as a Design Lead at Iris Education, a startup that seeks to provide reliable and accessible information about US universities to international students.",
+     {"entities": [(37, 50, "ORG")]}),
+    
+    ("The last time I was on Penn’s campus was when I was competing against Penn’s women’s fencing team.",
+     {"entities": [(21, 25, "ORG"), (66, 70, "ORG")]}),
+    
+    ("Next year I hope to be on the other side, a member of the Penn educational community, cheering on my new home team.",
+     {"entities": [(41, 45, "ORG")]})
+]

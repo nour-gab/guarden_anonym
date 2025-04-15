@@ -1,0 +1,40 @@
+TRAIN_DATA = [
+    ("One of the most prominent instances that made me realize the deep-seated educational disparities for minority and lower-income students occurred when I tested a 5th grade Philadelphia public school student named Jenna.",
+     {"entities": [(72, 84, "LOCATION"), (122, 127, "NAME")]}),
+
+    ("Her results revealed that Jenna was barely capable of reading on a 1st grade level.",
+     {"entities": [(23, 28, "NAME")]}),
+
+    ("Pursuing a Master’s degree in Sociology and Education at Teachers College will empower me to better support underserved students by gaining a comprehensive understanding of the U.S. education system, engaging with professors who are leaders in the field of urban education, and acquiring research skills that will enable me to critically analyze school systems from a sociological perspective.",
+     {"entities": [(55, 71, "ORG"), (121, 124, "LOCATION")]}),
+
+    ("My experience as a Posse Scholar at Bryn Mawr College and working in the education nonprofit sphere in Philadelphia has allowed me to interpret the education system from a number of diverse viewpoints.",
+     {"entities": [(27, 45, "ORG"), (49, 67, "ORG"), (111, 123, "LOCATION")]}),
+
+    ("After graduating Bryn Mawr College as a Posse Foundation Scholar, I recognized the transformative potential that a quality education has on the lives of students who are products of under-resourced school districts.",
+     {"entities": [(17, 35, "ORG"), (39, 60, "ORG"]}),
+
+    ("During my time at Bryn Mawr I took classes such as Race, Gender and Culture and The Black Self: Identity and Consciousness which dissected race and social identity from a perspective that allowed me to better understand systemic racism and how communities of color shape and mold their consciousness.",
+     {"entities": [(17, 29, "ORG")]}),
+
+    ("My entry into professional education began at Leading Educators, a nonprofit dedicated to identifying high quality teachers in the D.C. public school system for their Teacher Leadership Fellowship.",
+     {"entities": [(45, 63, "ORG"), (131, 134, "LOCATION")]}),
+
+    ("My current position at For Love of Children (FLOC) involves supporting students like Jenna who are severely below grade level and have limited access to quality educational resources.",
+     {"entities": [(24, 45, "ORG"), (74, 79, "NAME")]}),
+
+    ("As a Scholars Program Coordinator, I facilitate free after-school workshops on grade-based curriculum as well as postsecondary preparation for 8th and 11th grade students from the D.C. community.",
+     {"entities": [(144, 147, "LOCATION")]}),
+
+    ("Having the opportunity to attend and take courses at Teachers College with innovators such as Amy Stuart Wells truly excites me because of my admiration for her research on race and school desegregation.",
+     {"entities": [(51, 67, "ORG"), (87, 104, "NAME")]}),
+
+    ("In April 2016, I had the opportunity to hear Professor Wells speak at a seminar titled, Taking Action on School Diversity.",
+     {"entities": [(53, 58, "NAME")]}),
+
+    ("I am also eager to explore Professor Jeffrey Henig’s work on reforming urban schools and analyzing the intersections of race, politics, and education in urban environments.",
+     {"entities": [(35, 49, "NAME")]}),
+
+    ("Additionally, after speaking with several students currently in the Sociology & Education program and attending an open house, I can think of no institution more perfectly suited to my interests and ambitions.",
+     {"entities": [(53, 78, "ORG")]})
+]

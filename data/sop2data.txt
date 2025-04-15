@@ -1,0 +1,52 @@
+TRAIN_DATA = [
+    ("Paul Rusesabagina, the hero of the Hollywood blockbuster Hotel Rwanda, is not considered a \"rescuer\" in Rwanda nor in academic literature because, according to the Rwandan government, he made Tutsis pay to stay at the Hotel de Milles Collines.",
+     {"entities": [(0, 17, "NAME"), (47, 61, "WORK"), (62, 75, "WORK"), (91, 97, "LOCATION"), (132, 149, "ORG"), (174, 196, "WORK")]}),
+    
+    ("Similarly vexing, there are very few \"Righteous Among the Nations\" from Denmark, despite 99% of Danish Jews surviving the Holocaust; the Danish Underground wanted to be seen as a communal movement, precluding them from the honor, which is only given to individuals.",
+     {"entities": [(66, 73, "LOCATION"), (94, 107, "LOCATION"), (134, 151, "ORG")]}),
+    
+    ("Much of the limited scholarship on rescuing during mass atrocities defines \"rescuers\" using stringent constraints set by Yad Vashem’s \"Righteous Among the Nations\" eligibility criteria: individuals must be non-Jewish and have (1) had active involvement in saving Jews; (2) risked their lives, liberty, or position; and (3) been only altruistically motivated.",
+     {"entities": [(94, 104, "ORG")]}),
+    
+    ("The Rwandan government supplements these criteria with additional constraints in the context of the Rwandan genocide: only those who saved lives but did not kill can be considered rescuers, reaffirming a criterion of moral absolutism, and denying the study of complex actors.",
+     {"entities": [(4, 21, "ORG"), (81, 98, "EVENT")]}),
+    
+    ("The University of Amsterdam and the University of Chicago provided me with a strong intellectual foundation for pursuing this research.",
+     {"entities": [(4, 28, "ORG"), (37, 61, "ORG")]}),
+    
+    ("In my Master’s thesis, which was awarded the University of Amsterdam Faculty of Humanities Thesis Prize, I developed a historical analysis of rescuing during the Rwandan genocide.",
+     {"entities": [(47, 71, "ORG"), (118, 135, "EVENT")]}),
+    
+    ("I used oral testimonies, memoirs, newspaper articles, and government-sponsored content to compare the reasons given for rescuing by Hutu rescuers, UN Commander Roméo Dallaire, humanitarian aid worker Carl Wilkens, and the Rwandan Patriotic Front.",
+     {"entities": [(83, 95, "ETHNIC"), (109, 124, "NAME"), (149, 161, "NAME"), (171, 196, "ORG")]}),
+    
+    ("I then wrote a peer-reviewed book chapter, forthcoming, which explored the constraints of the \"rescuer\" label (The Holocaust: Remembrance, Respect, Resilience, edited by Michael Posner and Suki John).",
+     {"entities": [(111, 120, "EVENT"), (167, 180, "NAME"), (185, 195, "NAME")]}),
+    
+    ("At UChicago, I delved into the history of human rights through the Human Rights minor with Susan Gzesh and Mark Bradley and engaged in the interdisciplinary discourse on mass violence through courses including \"Perpetrators, Victims, and Bystanders\" (Eric Stover) and \"Insurgency, Terrorism, and Civil War\" (Paul Staniland).",
+     {"entities": [(3, 11, "ORG"), (66, 78, "NAME"), (83, 95, "NAME"), (186, 197, "NAME"), (241, 255, "NAME")]}),
+    
+    ("Through Harvard’s history study abroad program in Ghana (Emmanuel Akyeampong), I researched how the Middle Passage developed trauma-based communal identities.",
+     {"entities": [(8, 15, "ORG"), (52, 57, "LOCATION"), (59, 78, "NAME")]}),
+    
+    ("Building on my coursework, my Bachelor’s thesis developed a historical analysis to evaluate early warning signs of genocidal events in Darfur.",
+     {"entities": [(118, 124, "LOCATION")]}),
+    
+    ("Arabic classes in high school and college and Arabic lessons with tutors, as well as an immersion course in Summer 2022, will enable me to study primary sources on rescuing in the Middle East.",
+     {"entities": [(123, 134, "DATE"), (164, 176, "LOCATION")]}),
+    
+    ("My decision to pursue doctoral studies is also informed by my professional experiences at the Social Science Research Council (SSRC), J-PAL North America (MIT), and SYE Initiative and DAWNetwork.",
+     {"entities": [(74, 107, "ORG"), (109, 115, "ORG"), (123, 136, "ORG"), (141, 152, "ORG")]}),
+    
+    ("At the SSRC, I coordinated a fellowship that supports African PhD candidates studying peace and security.",
+     {"entities": [(7, 11, "ORG")]}),
+    
+    ("At J-PAL North America, I coordinate fundraising, accruing $15 million to support randomized evaluations on poverty alleviation.",
+     {"entities": [(3, 23, "ORG")]}),
+    
+    ("As Program Manager at SYE Initiative, a nonprofit that helps Syrian and Iraqi students apply to college, and as founder of DAWNetwork, a mentorship program for Syrian girls, I fostered my interest in the Middle East and developed deep networks in both Syria and Iraq.",
+     {"entities": [(22, 37, "ORG"), (59, 65, "NATIONALITY"), (70, 75, "NATIONALITY"), (109, 120, "ORG"), (180, 189, "LOCATION"), (194, 198, "LOCATION")]}),
+    
+    ("The University of Notre Dame’s Peace Studies and History PhD is an ideal fit to pursue research on the creation and manipulation of rescuing narratives throughout the 20th century.",
+     {"entities": [(4, 31, "ORG")]})
+]
